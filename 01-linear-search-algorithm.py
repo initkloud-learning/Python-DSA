@@ -22,3 +22,5 @@ def locate_card02(cards, query):
 
         if position == len(cards):
             return -1
+
+# Complexity and identify inefficiencies
